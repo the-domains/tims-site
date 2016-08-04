@@ -1,0 +1,14 @@
+layout_spectrum: 0.6607776863966137
+typography_spectrum: 0.8806205824948847
+color:
+  brandStrength: 0.6744665023870766
+  lightness: 0.6431148720439523
+  saturation: 0.49820581334643066
+  rhythmicContrast: 0.7132566252257675
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Tim's Site
